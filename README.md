@@ -1,3 +1,4 @@
+```
 
 {
     "workbench.startupEditor": "newUntitledFile",
@@ -117,3 +118,5 @@
     "files.autoSave": "afterDelay",
     "workbench.colorTheme": "Gatito Theme",
   }
+
+```
