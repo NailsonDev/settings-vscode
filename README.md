@@ -1,3 +1,9 @@
+### Instalação
+
+- Abra o VS Code e use o comando CRTL + P
+- Pesquise ">JSON" e selecione o "Preference: User Open Settings (JSON)"
+- Substitua o código pelo de baixo:
+
 ```
 
 {
