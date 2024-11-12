@@ -123,6 +123,25 @@
     "workbench.layoutControl.enabled": false,
     "files.autoSave": "afterDelay",
     "workbench.colorTheme": "Gatito Theme",
+    "explorer.confirmPasteNative": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.editorLargeFileConfirmation": 2024,
+    "editor.renderWhitespace": "none",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "terminal.integrated.smoothScrolling": true,
+    "background.enabled": true,
+    "background.fullscreen": {
+    
+      
+      "images": ["file:///E:/Nailson/Imagens/Wallpaper/adasd.jpg"],
+      "opacity": 0.92,
+      "size": "cover",
+      "position": "center",
+      "interval": 0,
+      "random": false
+    },
   }
 
 ```
