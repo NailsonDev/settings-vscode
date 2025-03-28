@@ -7,6 +7,8 @@
 ```
 
 {
+    
+{
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
@@ -122,7 +124,7 @@
     },
     "workbench.layoutControl.enabled": false,
     "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Gatito Theme",
+    "workbench.colorTheme": "Atom One Dark",
     "explorer.confirmPasteNative": false,
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "workbench.editorLargeFileConfirmation": 2024,
@@ -142,6 +144,9 @@
       "interval": 0,
       "random": false
     },
+    "discord.lowerDetailsDebugging": "Debugging: -",
+    "discord.lowerDetailsEditing": "contato@nailson.com.br",
   }
+
 
 ```
